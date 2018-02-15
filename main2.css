@@ -1,0 +1,66 @@
+html {
+    font-family: 'Pangolin', sans-serif;
+    background-image: url(background.jpg);
+    background-repeat: repeat;
+}
+
+body {
+    background: #F58605;
+    padding: 5px;
+    margin: 10px auto;
+    width: 80%;
+}
+
+footer {
+    background: #000;
+    COLOR: #FFF;
+}
+
+nav {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav li {
+    background: #f04444;
+    color: #600;
+    list-style-type: none;
+    margin: 2px;
+    padding: 0px;
+}
+
+nav li a:link {
+    display: block;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+nav li a:visted {
+    color: white;
+}
+
+nav li a:hover {
+    color: #fc6;
+}
+
+nav li a:active {
+    color: #da4;
+}
+.pictureofme {
+    float: left;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+table {
+    float: right;
+    padding-right: 30%;
+    background-color: #C2D10B;
+}
+
+ol {
+    float: left;
+    padding: 40px;
+}

@@ -1,0 +1,42 @@
+html {
+    font-family: 'Pangolin', sans-serif;
+    background: #f560f0;
+}
+
+body {
+    background: #f51;
+    padding: 5px;
+    margin: 10px auto;
+    width: 1000px;
+}
+
+footer {
+    background: #000;
+    COLOR: #FFF;
+}
+
+nav {
+    background: #768;
+    font-size: 2em;
+}
+
+nav li {
+    list-style-type: none;
+    text-decoration: none;
+    display: inline;
+}
+
+.pictureofme {
+    float: right;
+    padding-bottom: 30px;
+}
+
+table {
+    float: right;
+    padding-right: 30%;
+}
+
+ol {
+    float: left;
+    padding: 40px;
+}
