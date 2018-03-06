@@ -1,0 +1,69 @@
+td#Pokemon{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #AAA;
+    width: 160px;
+}
+
+th#Pokemon{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #666;
+    width: 160px;
+}
+
+h1{
+    align-content: center;
+    padding: 2%;
+    margin-bottom: 15px;
+    border: 2px solid #AAA;
+    border-radius: 12px;
+    background-color: rgba(05,05,05,0.75);
+    font-family: sans-serif;
+    color: #FFF;
+}
+
+td p{
+    font-family: sans-serif;
+    color: #FFF;
+}
+
+p#copy{
+    color: black;
+}
+
+p{
+    color: #FFF; 
+}
+
+th{
+    color: #FFF; 
+    background-color: #666;
+}
+
+td{
+    text-align: center;
+    margin: auto;
+    background-color: #666;
+}
+
+.list{
+    
+    border: 2px solid #AAA;
+    background: rgba(05,05,05,0.75);
+    border-radius: 12px;
+    padding: 1%;
+}
+
+.recent{
+    border: 2px solid #AAA;
+    background: rgba(05,05,05,0.75);;
+    border-radius: 12px;
+    margin-bottom: 12px;
+}
+
+body{
+    background: white;
+    background-image: url("images/giphy.webp");
+    text-align: left;
+}
