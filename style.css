@@ -1,0 +1,11 @@
+body   {
+    background-color: orange;
+}
+
+
+nav li {
+    list-style-type: none;
+    
+    display: inline;
+    text-decoration-color: black;
+}
