@@ -5,6 +5,10 @@ html {
     color: #fff;
 }
 
+img {
+    padding: 120px;
+}
+
 canvas {
     margin-left: 15vw;
     width: 600px;
