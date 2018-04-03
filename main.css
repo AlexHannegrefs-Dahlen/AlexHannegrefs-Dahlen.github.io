@@ -28,7 +28,7 @@ h1 {
 }
 
 body {
-    background: radial-gradient(#fff, #333, #000);
+    background: radial-gradient(#000, #333, #FF4500);
     margin: auto;
     width: 80%;
     padding-top: 10px;
