@@ -1,0 +1,232 @@
+html {
+    height: 100vh;
+    background-size: contain;
+    font-family: 'Inconsolata', monospace;
+    color: #fff;
+}
+
+img {
+    padding: 120px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+canvas {
+    margin-left: 15vw;
+    width: 600px;
+    height: 200px;
+}
+
+h1 {
+    font-style: italic;
+    padding: 120px;
+}
+
+body {
+    background: radial-gradient(#000, #FF4500, #000);
+    margin: auto;
+    width: 80%;
+    padding-top: 10px;
+}
+
+p {
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+    list-style: none;
+    top: -15px;
+    position: fixed;
+    width: 80%;
+}
+
+nav ul {
+    background-color: rgba(47, 47, 45, 0.9);
+    padding: 5px 5px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 5px 11px;
+    top: 0;
+}
+
+h1 {
+    margin-top: 3%;
+}
+
+nav li a {
+    border: 5px solid rgba(255, 255, 255, 0.62);
+    border-radius: 5px;
+    padding: 2px 7px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #fff;
+    color: rgb(25, 6, 255);
+}
+
+#logo {
+    width: 10%;
+    border-radius: 20%;
+    float: right;
+    margin-top: 2%;
+}
+
+#logotext {
+    clear: right;
+    float: left;
+    padding: 10px;
+    margin-top: -30px;
+}
+
+footer {
+    padding: 50px;
+}
+
+#specsfoot {
+    padding: 100px;
+}
+
+nav li a:active {}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    background: #333;
+    border-radius: 10px;
+}
+
+th {
+    border-right: 1px solid #fff;
+}
+
+td,
+th {
+    padding: 10px;
+    text-align: center;
+}
+
+tr:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+#slideshow {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+
+#slides {
+    margin-left: 17.3vw;
+    text-align: center;
+    border: 2px solid #fff;
+}
+
+.pad {
+    padding: 10px;
+}
+
+#prev_image {
+    padding-top: 1vh;
+    float: left;
+    width: 50px;
+}
+
+#slideshow_image {
+    width: 650px;
+    height: 370px;
+}
+
+aside {
+    display: inline-block;
+}
+
+#next_image {
+    padding-top: 1vh;
+    float: right;
+    width: 50px;
+}
+
+.content {
+    padding: 20px;
+    overflow: hidden;
+}
+
+.content img {
+    margin-right: 15px;
+    float: left;
+}
+
+.contactInfo {
+    background: #000;
+    margin: 5px;
+    padding: 8px;
+    border: 2px solid #fff;
+    margin-bottom: 10px;
+    width: 150px;
+    height: auto;
+    text-align: center;
+    margin-left: 17%;
+}
+
+#contactInfo {
+    float: left;
+}
+
+.socialMedia {
+    margin: 10px 10px;
+}
+
+#fb {
+    margin-left: -.2px;
+}
+
+#formForUser {
+    margin-left: 57%;
+    text-align: center;
+    float: center;
+    width: 50%;
+    margin-top: -36%;
+}
+
+#findUs {
+    padding: 5px;
+    width: 50%;
+    margin-left: 30%;
+}
+
+#headquarters {
+    float: center;
+    margin-top: -5.4px;
+    height: 330px;
+    width: 320px;
+    margin-left: 10%;
+}
+
+#hqP {
+    margin-left: 40%;
+}
+
+#starrating {
+    float: right;
+    margin: 10px 10px;
+    margin-right: 8.7%;
+    padding: 5px;
+    text-align: center;
+}
+
+#userstory {
+    float: right;
+    margin-right: 5%;
+    width: 20%;
+}
